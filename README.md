@@ -94,8 +94,3 @@ OK
 - Winsock (Windows Sockets API)
 - STL (`unordered_map`, `vector`, `fstream`, `sstream`)
 
-## Future Improvements
-
-- Key expiration (TTL)
-- Concurrent client handling
-- Additional Redis commands
